@@ -1,0 +1,15 @@
+{
+    "title": "OK Project 5",
+    "baseURL": "https:\/\/okproject5.com\/ok",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/ok",
+        "firstpartycookies": true,
+        "cookiedomain": "okproject5.com"
+    }
+}
